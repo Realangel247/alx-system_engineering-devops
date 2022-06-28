@@ -1,1 +1,1 @@
-Creating an alias
+0 - alais -> Creating a script with alias
